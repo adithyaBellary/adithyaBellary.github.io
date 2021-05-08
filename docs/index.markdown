@@ -4,3 +4,15 @@
 
 layout: home
 ---
+
+welcome to my site
+
+[resume](/resume/)
+
+work history
+
+projects
+
+poetry
+
+blog

@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I graduated from the University of Illinois at Urbana-Champaign in May of 2019 with a degree in Electrical Engineering. There, I got a chance to dip my toes in machine learning and larger software engineering applications, so I decided to scratch that itch. I fell in love.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I love the creative nature of software engineering. I feel the most fulfilled and satisfied when I am working on problems that affect a broad section of the population.
