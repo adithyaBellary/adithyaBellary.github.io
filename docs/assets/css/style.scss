@@ -1,0 +1,9 @@
+---
+---
+
+// @import "minima/skins/{{ site.minima.skin | default: 'classic' }}.scss";
+// @import "minima/initialize";
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
