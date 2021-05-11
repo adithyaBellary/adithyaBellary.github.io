@@ -209,6 +209,11 @@
   @include relative-font-size(2);
 }
 
+.home-heading {
+  @include relative-font-size(2);
+  text-align: center;
+}
+
 .post-list-heading {
   @include relative-font-size(1.75);
 }

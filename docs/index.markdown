@@ -3,16 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+page_title: welcome to my site
 ---
 
-welcome to my site
+[look at my resume](resume/)
 
-[resume](/resume/)
+work history (might just be combined with the resume)
 
-work history
+[check out my projects](projects/)
 
-projects
+[read my poetry](poetry/)
 
-poetry
-
-blog
+[read my blog](blog/)
