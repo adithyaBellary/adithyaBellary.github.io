@@ -1,7 +1,9 @@
 ---
-layout: page
-page_title: on_poetry
+# layout: page
+layout: poem
+page_title: On Poetry
 align_center: true
+poem_date: 06.19.2019
 ---
 
 Poetry is feeling.  <br/>
