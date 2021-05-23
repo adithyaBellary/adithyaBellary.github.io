@@ -8,8 +8,6 @@ page_title: welcome to my site
 
 [look at my resume](resume/)
 
-work history (might just be combined with the resume)
-
 [check out my projects](projects/)
 
 [read my poetry](poetry/)
