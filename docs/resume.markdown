@@ -2,8 +2,8 @@
 layout: resume
 page_title: Adithya Bellary Resume
 title: Resume
-permalink: resume
-url: resume
+permalink: /resume/
+# url: resume
 ---
 
 #### Resume
