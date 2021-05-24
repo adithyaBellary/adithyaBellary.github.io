@@ -25,7 +25,11 @@
   &,
   &:visited {
     color: $site-title-color;
+    color: white
   }
+  // a {
+  //   color: white;
+  // }
 }
 
 .site-nav {
@@ -75,6 +79,7 @@
 
   .page-link {
     color: $text-color;
+    color: white;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
