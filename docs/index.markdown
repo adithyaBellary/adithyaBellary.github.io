@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-page_title: welcome to my site
+page_title: Adithya Bellary
 ---
 
 [look at my resume](resume/)
