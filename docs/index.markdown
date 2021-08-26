@@ -6,6 +6,8 @@ layout: home
 page_title: Adithya Bellary
 ---
 
+I like writing, writing software, and writing about writing software.
+
 [look at my resume](resume/)
 
 [check out my projects](projects/)

@@ -25,8 +25,8 @@ July 2019 - present
 
 - Used Typescript and React to create robust and intuitive frontend features. <br/>
 - Worked with GraphQL layer to improve data communication between client and backend. <br/>
-- Provided constructive feedback on Pull Requests to improve health of various codebases. <br/>
 - Introduced comprehensive tests to create sustainable features. <br/>
+- Provided constructive feedback on Pull Requests to improve health of various codebases. <br/>
 - Worked with senior developers to implement higher order software engineering techniques <br/>
 
 #### Projects (read more at /projects)
@@ -45,6 +45,6 @@ Added communication features using Twilio (TODO)
 Website stuff <br/>
 
 #### Skills
-TypeScript, Python, GraphQL, NodeJS, MongoDB, Postgres, Git
+TypeScript, Python, GraphQL, NodeJS, Django, MongoDB, Postgres, Git
 React, React Native
 Agile, Scrum Ceremonies
