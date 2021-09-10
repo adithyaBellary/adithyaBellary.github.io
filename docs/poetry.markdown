@@ -1,10 +1,9 @@
 ---
-layout: page
-page_title: poetry
+layout: default
+title: Projects
+permalink: /poetry/
 ---
 
-There are some of my poems. check me out on instagram also
+[On Poetry](/poetry/on_poetry) -- *06.12.2019*
 
-[On Poetry](/poetry/on_poetry) *06.12.2019*
-
-[poem 2 - date 2](/poetry/poem2)
+[What the world deserves](/poetry/world) -- *06.17.2019*

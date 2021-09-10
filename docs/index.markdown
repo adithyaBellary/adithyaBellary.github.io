@@ -14,4 +14,4 @@ I like writing, writing software, and writing about writing software.
 
 [read my poetry](poetry/)
 
-[read my blog](blog/)
+<!-- [read my blog](blog/) -->

@@ -4,6 +4,7 @@ layout: poem
 page_title: On Poetry
 align_center: true
 poem_date: 06.19.2019
+permalink: /poetry/on_poetry
 ---
 
 Poetry is feeling.  <br/>
