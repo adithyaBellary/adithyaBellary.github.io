@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-page_title: Adithya Bellary
+page_title: Welcome
 ---
 
 I like writing, writing software, and writing about writing software.

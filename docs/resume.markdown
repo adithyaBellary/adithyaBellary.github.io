@@ -1,6 +1,6 @@
 ---
 layout: resume
-page_title: Adithya Bellary Resume
+page_title: Resume
 title: Resume
 permalink: /resume/
 # url: resume
@@ -42,7 +42,6 @@ Django application that serves as a financial assitance tool
 Add code to algorithmically trade stocks using Recurrent Neural Networks and other market metrics
 Added communication features using Twilio (TODO)
 
-Website stuff <br/>
 
 #### Skills
 TypeScript, Python, GraphQL, NodeJS, Django, MongoDB, Postgres, Git
