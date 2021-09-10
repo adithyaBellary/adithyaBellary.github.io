@@ -6,7 +6,7 @@ permalink: /projects/
 ---
 
 <!-- #### Emphasis app [(check out my presentation)](https://docs.google.com/presentation/d/187UEOYPYJdDcrWvIYPykuSc6LD5ViT4uxG8TQ4wKL5w/edit?usp=sharing) -->
-#### [Tutoring Group Mobile Application](v1/)
+#### [Tutoring Group Mobile Application](/projects/v1)
 
 
 ### More to come soon!!
