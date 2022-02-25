@@ -16,7 +16,7 @@
     </script>
     <script>
       window.loc = ''
-      function wrapper() {
+      function render() {
         renderAtomContent(
           'partner_1',
           'stagingToken_fbc28fc4-bc0d-41b4-a9ef-ffc66595c51a',
@@ -27,11 +27,11 @@
       function alternateRouteSubmit(route) {
         window.loc = route
         console.log('r', route)
-        wrapper()
+        render()
       }
     </script>
     <script>
-      wrapper()
+      render()
     </script>
   </body>
 </html>
