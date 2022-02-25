@@ -3,18 +3,35 @@
 </head>
 <html>
   <body>
+    <h1>Partner Sandbox</h1>
+    <div id="atomParent"></div>
+    <label id="routeInputLabel" for="routeInput">enter a route to go to (dont add the first or last /)</label>
+    <input id="routeInput" name="routeInput">
+    <input type="submit" onclick="alternateRouteSubmit(document.getElementById('routeInput').value)">
+
     <script
       src="https://unpkg.com/@atomfinance/atom-web-sdk/dist/index.js"
       type="text/javascript"
     >
     </script>
     <script>
-      renderAtomContent(
-        'partner_1',
-        'stagingToken_fbc28fc4-bc0d-41b4-a9ef-ffc66595c51a',
-        'iFrame_1'
-       );
+      window.loc = ''
+      function wrapper() {
+        renderAtomContent(
+          'partner_1',
+          'stagingToken_fbc28fc4-bc0d-41b4-a9ef-ffc66595c51a',
+          'iFrame_1',
+          window.loc
+        );
+      }
+      function alternateRouteSubmit(route) {
+        window.loc = route
+        console.log('r', route)
+        wrapper()
+      }
     </script>
-    <h1>Test iFrame version</h1>
+    <script>
+      wrapper()
+    </script>
   </body>
 </html>
